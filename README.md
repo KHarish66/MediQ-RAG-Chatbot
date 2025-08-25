@@ -1,4 +1,4 @@
-MediQ RAG Chatbot ⚕️
+'MediQ RAG Chatbot ⚕️'
 A Retrieval-Augmented Generation (RAG) chatbot designed to answer questions from a specific medical knowledge base, featuring an interactive web interface built with Streamlit.
 
 ✨ About The Project
