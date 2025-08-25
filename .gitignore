@@ -1,0 +1,12 @@
+﻿# Virtual Environment folder
+venv/
+
+# Environment variables file (contains API keys!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Vector store (can be large and regenerated)
+vectorstore/
